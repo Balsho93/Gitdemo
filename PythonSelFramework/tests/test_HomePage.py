@@ -20,6 +20,7 @@ class TestHomePage(BaseClass):
         self.selectOptionByText(homepage.getGender(), getData["gender"])
 
         homepage.submitForm().click()
+        print("hello")
 
         alertText = homepage.getSuccessMessage().text
 
