@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fc67438a-f4b0-4a5b-98e1-7b4ee9d5c7ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1SqgZ1h8XpgKmQLz023NzHzNc3J" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,26 +36,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/balaj/OneDrive/Documents/Gitdemo/PythonSelFramework"
+    "git-widget-placeholder": "modifier__changes",
+    "last_opened_file_path": "C:/Users/balaj/OneDrive/Desktop/PythonSelFramework/PythonSelFramework"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Owner\PycharmProjects\PythonSelFramework\utilities" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python tests.pytest in test_HomePage.py">
     <configuration name="excelDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -116,8 +108,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.excelDemo" />
       <item itemvalue="Python.test_e2e" />
+      <item itemvalue="Python.excelDemo" />
       <item itemvalue="Python tests.pytest in test_HomePage.py" />
     </list>
     <recent_temporary>
@@ -153,7 +145,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/test_HomePage.py</url>
-          <line>25</line>
+          <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">

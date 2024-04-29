@@ -21,6 +21,8 @@ class TestHomePage(BaseClass):
 
         homepage.submitForm().click()
         print("hello")
+        print("hello")
+        print("hello")
 
         alertText = homepage.getSuccessMessage().text
 
